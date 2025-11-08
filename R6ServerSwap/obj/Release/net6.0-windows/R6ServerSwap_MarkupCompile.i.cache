@@ -1,0 +1,20 @@
+﻿R6ServerSwap
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\
+R6ServerSwap
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\App.xaml
+11407045341
+
+6315566107
+194-127540142
+MainWindow.xaml;
+
+True
+
