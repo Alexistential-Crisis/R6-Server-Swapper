@@ -5,7 +5,7 @@ If you do not have a folder there, the application might crash.
 I'm not sure, but it doesn't NEED the additional support. 
 If it's asked for I might implement / fix it.
 
-ie. QuickCoyote/Documents/My Games/Rainbow Six - Siege/
+ie. User/Documents/My Games/Rainbow Six - Siege/
 
 After accessing that folder, it then goes through all folders in there
 
